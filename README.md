@@ -1,2 +1,2 @@
 # naieve-bays-python
-Naieve bays surya 
+Simple naive bays classifier in python
